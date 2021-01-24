@@ -1,0 +1,39 @@
+html{
+  font-size: 10px;
+}
+body{
+  font-family: arial, sans-serif;
+  font-size: 1.7rem;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  background: #eee;
+}
+h1{
+  font-family: helvetica, sans-serif;
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
+img {
+  max-width: 100%;
+  max-height: 500px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
